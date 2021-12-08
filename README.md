@@ -7,6 +7,6 @@
 - ✅ Done
 - 🚫 Canceled
 - 🟣 Postponed
-- 🤔 Discovery phase (figuring it out)
+- 🧠 Discovery phase (figuring it out)
 - 🔭 Exploring (feedback needed)
 - 🔨Working on
