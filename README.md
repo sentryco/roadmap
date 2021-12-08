@@ -4,7 +4,6 @@
 ### Status emojies:
 - ⏳ Time consuming
 - 🔥 Fix ASAP
-- ✨ New
 - ✅ Done
 - 🚫 Canceled
 - 🟣 Postponed
